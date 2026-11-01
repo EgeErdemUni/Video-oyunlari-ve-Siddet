@@ -5,3 +5,5 @@ https://www.kaggle.com/datasets/muhammadshamoeel/effects-of-video-games-on-aggre
 https://www.nature.com/articles/s41380-018-0031-7.pdf?utm_source=consensus bu makale de farklı temalardaki oyunların üzerinden gerçekleşiş benzer bir projedir. Buradaki verisetleri ve makalenin lisansı da tekrar yorumlanmaya açık ve projeye destek olmaktadır. 
 İkincil veri analizi ve literatür taraması yöntemleri kullanılacak. Bunun sebebi Kaggleda geniş kapsamlı anket bulunması ve kullanıma uygun olmasıdır. 
 https://github.com/users/EgeErdemUni/projects/1 kanban panosu
+
+UCM Diagramı ve Activity Diagramlarında bu projede makalelerin ve anketlerin nasıl ele alınacağına dair bilgilendirmeler ve yönergeler yer almaktadır.
